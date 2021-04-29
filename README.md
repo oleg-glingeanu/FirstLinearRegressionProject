@@ -4,4 +4,4 @@ My first Machine Learning project using Linear Regression Algorithm
 - Cleaned the data and replaced any number that is NaN to 0
 - Used the Linear Regression Algorithm to predict Page total likes
 
-![alt text](https://github.com/oleg-glingeanu/FirstLinearRegressionProject/blob/main/Graph1.jpg?raw=true)
+![Graph1](https://github.com/oleg-glingeanu/FirstLinearRegressionProject/blob/main/Graph_1.JPG?raw=true)
