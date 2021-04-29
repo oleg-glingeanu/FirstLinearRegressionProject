@@ -52,7 +52,7 @@ linear_algorithm = pickle.load(pickle_in)
 
 
 # Plotting the Data
-plot = 'Total Interactions'
+plot = 'Post Month'
 style.use("ggplot")
 pyplot.scatter(data[plot], data["Page total likes"])
 pyplot.xlabel(plot)
